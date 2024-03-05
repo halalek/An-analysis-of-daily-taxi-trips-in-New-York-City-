@@ -5,8 +5,8 @@ Analysis of daily taxi trips in New York City using a large set of records The a
 1. Programming language: Python
    
 2. Work environment:Jupyter Notebook, Colab.
-
-3.Data: Taxi rides in New York City
+   
+3. Data: Taxi rides in New York City
 
 
 # Requirements
@@ -80,3 +80,80 @@ Tripping technique to create class_trip attribute.
 ### Note:
 You may need to store a data set on the hard disk more than once
 To ease calculations and reduce the size of the Graph Computation Dask
+
+
+
+
+## 3. Exploration and analysis
+### a. Beyond the edge of numbers
+
+i. Display each agency's Vendor share using Chart Pie
+
+ii. Display each Borough's share using Chart Pie
+
+iii. View the payment methods used using the chart bar
+
+iv. View the payment methods used within each trip category using
+.sunburst chart
+
+v. Study the linear relationship between the total cost, tip amount, fare amount, and number
+Passengers, trip duration, and distance traveled
+Show your opinion about the results. 
+
+vi. Compare the mean, median, and standard deviation for the total cost and duration of the trip
+The distance traveled for each type of trip
+Bar chart using (statistics per trip_class)
+State your opinion of the result (take advantage of...
+(Plotly is a library within the Facet Row/Col property
+
+vii. Study the correlation of time series, autocorrelation Partial and Autocorrelation
+
+viii. Display a smoothed version of each time series using Window Rolling
+Line Chart and chart
+
+ix. Perform any time series analysis you deem appropriate.
+
+### b. Catching patterns
+i. Model the time series components for each local agency using a statistical model
+As you see fit, then use Prophet to build the final model and perform tuning operations
+appropriate tuning and compare models.
+
+ii. What do you conclude from each component
+
+iii. Compare agencies based on what you find.
+
+### c. Time is valuable
+i. Forecast future demand for taxi trips and revenues using back-end models
+After the tuning process, models must be evaluated and compared using metrics
+Appropriate interpretation of results in the context of the data and any external factors that may affect the application
+Taxis.
+
+ii. Balance the goodness of fit of the model with its complexity, so that it is preferred
+Simpler models unless...
+Significantly lower performance than more complex models.
+
+
+### d. Random stories
+i. Sample the data to the point where you can analyze and process it
+Samples should be as comprehensive as possible.
+
+ii. Perform the Clustering process using automatic learning techniques (three algorithms).
+
+At most and at least two) Then try to describe the clusters and compare them.
+
+iii. Perform appropriate post-processing and identify the most important features that affected
+What do you think?
+
+Deciding on the best model I trained for each algorithm I used
+
+## Some diagrams resulting from the solution of the third question :
+
+![image](https://github.com/halalek/An-analysis-of-daily-taxi-trips-in-New-York-City-/assets/112726630/9a805b80-5eae-4ed4-aa21-1aab3c75939c)
+
+
+![image](https://github.com/halalek/An-analysis-of-daily-taxi-trips-in-New-York-City-/assets/112726630/03446839-8b34-4e6c-8dd7-f25303be435c)
+
+![image](https://github.com/halalek/An-analysis-of-daily-taxi-trips-in-New-York-City-/assets/112726630/1f19c955-f660-40a6-81dc-ebf9549e0d6f)
+
+![image](https://github.com/halalek/An-analysis-of-daily-taxi-trips-in-New-York-City-/assets/112726630/24447659-2745-4010-a808-089697f8d958)
+
