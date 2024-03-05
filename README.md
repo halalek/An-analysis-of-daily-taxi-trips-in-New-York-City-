@@ -148,12 +148,11 @@ Deciding on the best model I trained for each algorithm I used
 
 ## Some diagrams resulting from the solution of the third question :
 
-![image](https://github.com/halalek/An-analysis-of-daily-taxi-trips-in-New-York-City-/assets/112726630/9a805b80-5eae-4ed4-aa21-1aab3c75939c)
+![image](https://github.com/halalek/An-analysis-of-daily-taxi-trips-in-New-York-City-/assets/112726630/398fc884-4119-442d-acaf-e0268c4a31e9)
 
-
-![image](https://github.com/halalek/An-analysis-of-daily-taxi-trips-in-New-York-City-/assets/112726630/03446839-8b34-4e6c-8dd7-f25303be435c)
-
-![image](https://github.com/halalek/An-analysis-of-daily-taxi-trips-in-New-York-City-/assets/112726630/1f19c955-f660-40a6-81dc-ebf9549e0d6f)
 
 ![image](https://github.com/halalek/An-analysis-of-daily-taxi-trips-in-New-York-City-/assets/112726630/24447659-2745-4010-a808-089697f8d958)
+
+![image](https://github.com/halalek/An-analysis-of-daily-taxi-trips-in-New-York-City-/assets/112726630/b0ba287a-6357-4735-adbe-d19d38058e36)
+
 
